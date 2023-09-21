@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@mixin oq {
+    color: white;
+    background-color: white;
+}
+
+.box {
+    width: 100%;
+height: 200vh;
+background: #A78768;
+.hello-1 {
+    width: 1036px;
+height: 63px;
+font-size: 50px;
+text-align: center;
+font-weight: 600;
+line-height: 120%; color: #FFF;
+padding: 10%;
+margin-left: 13%;
+}
+.hello-2 {
+    width: 793.585px;
+height: 40.755px;
+color: #F7F6F3;
+font-size: 23px;
+text-align: center;
+margin-left: 21.5%;
+margin-top: -5%;
+}
+.box1 {
+    width: 50px;
+    height: 50px;
+padding: 10px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 37px;
+background: #FFF;
+}
+.box2 {
+    display: flex;
+    gap: 20%;
+    margin-left: 28%;
+    margin-top: 5%;
+}
+.hello-3 {
+color: #FFF;
+font-size: 28px;
+margin-top: 25px;
+margin-left: -15px;
+}
+.hello-4 {
+    width: 150px;
+    color: #FFF;
+text-align: center;
+font-size: 18px;
+margin-left: -55px;
+}
+.hello-5 {
+    width: 200px;
+    color: #FFF;
+text-align: center;
+font-size: 18px;
+margin-left: -55px;
+}
+.box3 {
+    display: flex;
+width: 1110px;
+height: 512px;
+padding: 90px 70px;
+border-radius: 4px;
+background: #FFF;
+margin-top: 20%; 
+margin-left: 12%;
+}
+.box4 {
+display: flex;
+width: 407.547px;
+height: 63.396px;
+padding: 10px 23px;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 0.5px solid #B6B6B6;
+background: #FFF;
+margin-left: 10%;
+}
+.box4 p {
+    color: #5C5C5C;
+text-align: center;
+font-size: 18px;
+}
+.box5 {
+    display: flex;
+width: 407.547px;
+height: 63.396px;
+padding: 10px 23px;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 0.5px solid #B6B6B6;
+background: #FFF;
+margin-top: 9%;
+margin-left: -41.9%;
+}
+.box6 {
+    display: flex;
+width: 407.547px;
+height: 63.396px;
+padding: 10px 23px;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 0.5px solid #B6B6B6;
+background: #FFF;
+margin-top: 18%;
+margin-left: -41.9%;
+}
+.box7 {
+    display: flex;
+width: 415px;
+height: 238px;
+padding: 10px 23px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+border: 0.5px solid #B6B6B6;
+background: #FFF;
+margin-left: 2%;
+}
+.box7 p {
+    color: #5C5C5C;
+font-size: 18px;
+}
+.box8 {
+    display: flex;
+width: 840px;
+height: 75.849px;
+border-radius: 8px;
+border: 0.5px solid #A7A7A7;
+background: #B99674;
+margin-top: -10%;
+margin-left: 23.7%;
+}
+.box8 p {
+    color: #FFF;
+font-size: 20px;
+margin-top: 3%;
+margin-left: 43%;
+}
+}
+
